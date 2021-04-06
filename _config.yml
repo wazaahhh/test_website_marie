@@ -1,21 +1,20 @@
 # Site settings
-title: Decision Lab @ UCSF (Chiong lab)
-name: Decision Lab at UCSF (Chiong lab)
-email: decisionlab@ucsf.edu
+title: Autism Brain & Behavior
+name: Autism Brain & Behavior
+email: marie.schaer@unige.ch
 description: > # this means to ignore newlines until "baseurl:"
-  Neuroethics + Decision Neuroscience. Research group headed by Winston Chiong, MD PhD in the 
-  University of California, San Francisco Weill Institute for Neurosciences, Memory and Aging Center.
+  ...
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://decisionlab.ucsf.edu
-last_updated: # leave blank if you don't want to display last updated
+url: ""
+last_updated: 6 April 2021 # leave blank if you don't want to display last updated
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 # -----------------------------------------------------------------------------
 # News
 # -----------------------------------------------------------------------------
-blog_name: Decision Lab @ UCSF
-blog_description: neuroethics + decision neuroscience
+blog_name: Autism Brain & Behavior
+blog_description: Autism Brain & Behavior
 
 # Pagination
 paginate: 4
