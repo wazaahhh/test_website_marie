@@ -4,8 +4,8 @@ name: Autism Brain & Behavior
 email: marie.schaer@unige.ch
 description: > # this means to ignore newlines until "baseurl:"
   ...
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: ""
+baseurl: "test_website_marie" # the subpath of your site, e.g. /blog/
+url: "https://wazaahhh.github.io/"
 last_updated: 6 April 2021 # leave blank if you don't want to display last updated
 #twitter_username: jekyllrb
 #github_username:  jekyll
